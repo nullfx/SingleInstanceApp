@@ -7,7 +7,6 @@ namespace SingleInstanceApp {
         }
 
         protected override void WndProc ( ref Message m ) {
-
             // handle the WM_SHOWME message and bring 
             // this window to the top
             if ( m.Msg == NativeMethods.WM_SHOWME ) {
