@@ -4,6 +4,6 @@ This is a sample C# .net windows forms app which employs a mutex and win32 to pr
 
 ![](images/single-instance-app.png)
 
-The relevant files are [Program.cs](src/SingleInstanceApp/Program.cs) and [Form1.cs](src/SingleInstanceApp/Form1.cs) files.
+The relevant pieces to achieving this are found in [Program.cs](src/SingleInstanceApp/Program.cs) and [Form1.cs](src/SingleInstanceApp/Form1.cs).
 
-More on this sample can be found [here](http://sanity-free.org/csharp_dotnet_single_instance_application.html)
+More info on this sample can be found [here](http://sanity-free.org/csharp_dotnet_single_instance_application.html) on my personal website.
